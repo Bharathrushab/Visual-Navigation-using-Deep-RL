@@ -12,7 +12,7 @@ Evaluation notebooks:
 - Notebooks evaluating the performance of the models.
 
 
-- - Run the model trained on 750, 000 frames evaluation notebook 
+	 - Run the model trained on 750, 000 frames evaluation notebook 
 
 
 Notebook Name: 
