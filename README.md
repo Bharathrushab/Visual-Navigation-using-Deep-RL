@@ -13,77 +13,49 @@ Evaluation notebooks:
 
 
 	 - Run the model trained on 750, 000 frames evaluation notebook 
-
-
-Notebook Name: 
-750K_frames_trained_model_performance_evaluation.ipynb
+	 - Notebook Name: 750K_frames_trained_model_performance_evaluation.ipynb
 
 
 
 
 
-Run the transfer learning trained model evaluation notebook 
+- Run the transfer learning trained model evaluation notebook 
 
-Notebook Name: 
-1_65_Million_frames_trained_model.ipynb
-
-
-Notebook Link:
-https://colab.research.google.com/drive/1EV1OQON0L_3LIGbmKt-deAN2YfeWYF2L?usp=sharing
+	- Notebook Name: 1_65_Million_frames_trained_model.ipynb
 
 
 
 
-Run the pre-trained model trained on 10 Million frames generalization evaluation notebook
+- Run the pre-trained model trained on 10 Million frames generalization evaluation notebook
 
-Notebook Name: 
-10M_frames_trained_model_generalization_performance.ipynb
+	- Notebook Name: 10M_frames_trained_model_generalization_performance.ipynb
 
-
-Notebook Link:
-https://colab.research.google.com/drive/1nIgZ1s_10p-R-Z4nYpnfGV5n8-rlNtAt?usp=sharing
 
 Environment exploration notebook
 
 
-Can explore the different scenes in the notebook mentioned below by using the keyboard to navigate the selected scene.
+- Can explore the different scenes in the notebook mentioned below by using the keyboard to navigate the selected scene.
 
-	Notebook Name: 
-Explore_Scenes.ipynb
+	- Notebook Name: Explore_Scenes.ipynb
 
-
-Notebook Link:
-https://colab.research.google.com/drive/1N9wjljFd0CqLS0NKAuaU8Y-qIfj61fmC?usp=sharing
 
 
 Training notebooks
 
 
-Actor-Critic model training notebook 
+- Actor-Critic model training notebook 
 
-Notebook Name: 
-ActorCritic_model_train.ipynb
-
-
-Notebook Link:
-https://colab.research.google.com/drive/1OkzIIEB5mUhowVp6SYhLgywF8rZ-GDZK?usp=sharing
+	- Notebook Name: ActorCritic_model_train.ipynb
 
 
-Transfer learning notebook 
+- Transfer learning notebook 
 
-Notebook Name: 
-Transfer Learning.ipynb
+	- Notebook Name: Transfer Learning.ipynb
 
-Notebook Link:
-https://colab.research.google.com/drive/18lCVbeYrHAQfggI8LwIeXpG8PLL__u1G?usp=sharing
 
-Training metric plots
+- Training metric plots
 
-Notebook Name: 
-Plotting_train_metrics.ipynb
-
-Notebook Link:
-https://colab.research.google.com/drive/14ykpnk5mwS-f3fxfJlFSA5rqiHR1l11p?usp=sharing
+	- Notebook Name: Plotting_train_metrics.ipynb
 
 
 
