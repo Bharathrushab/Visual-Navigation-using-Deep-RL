@@ -7,7 +7,7 @@ All the below mentioned notebooks are colab notebooks present in the ‘root/Not
 Please use the links to access the notebooks, if the links are not functioning please access the notebooks using the notebook names provided.
 
 
-Evaluation notebooks:
+*Evaluation notebooks*:
 
 - Notebooks evaluating the performance of the models.
 
@@ -31,7 +31,7 @@ Evaluation notebooks:
 	- Notebook Name: 10M_frames_trained_model_generalization_performance.ipynb
 
 
-Environment exploration notebook
+*Environment exploration notebook*
 
 
 - Can explore the different scenes in the notebook mentioned below by using the keyboard to navigate the selected scene.
@@ -40,7 +40,7 @@ Environment exploration notebook
 
 
 
-Training notebooks
+*Training notebooks*
 
 
 - Actor-Critic model training notebook 
