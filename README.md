@@ -2,9 +2,8 @@
 
 Instructions to Run the notebooks: 
 
-All the below mentioned notebooks are colab notebooks present in the ‘root/Notebooks’ folder of our codebase.
 
-Please use the links to access the notebooks, if the links are not functioning please access the notebooks using the notebook names provided.
+Please to access the notebooks from the repository
 
 
 **Evaluation notebooks**:
